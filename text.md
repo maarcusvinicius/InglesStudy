@@ -164,7 +164,7 @@ week 7{
 ------------------------------------------------------------------------
 week 8{
     day 2{
-        BREAKFAST{
+        BREAKFAST
             Bread = pão;
             Sliced bread = pão de forma fatiado;
             Brazilian cheese bread = pão de queijo;
@@ -197,8 +197,8 @@ week 8{
             Banana;
             Papaya = mamão;
             Strawberry = morango;
-        }
-        LUNCH{
+        
+        LUNCH
             Rice = arroz;
             Beans = feijão;
             Steak = bife;
@@ -222,8 +222,8 @@ week 8{
             Corn = milho;
             Lettuce = alface;
             Broccoli = brócolis;
-        }
-        DESSERT{
+        
+        DESSERT
             Ice Cream = sorvete;
             Cake = bolo;
             Custard = creme;
@@ -232,8 +232,8 @@ week 8{
             Sparkling water = água com gás;
             Mineral water = água mineral;
             Soda = refrigerante;
-        }
-        SNACK{
+        
+        SNACK
             Cookies = biscoitos, geralmente doces;
             Crackers = biscoitos, geralmente salgados;
             Tuna sandwich = sanduíche de atum;
@@ -243,8 +243,8 @@ week 8{
             Fruit = fruta;
             Popcorn = pipoca;
             Nuts = castanhas;
-        }
-        DINNER{
+        
+        DINNER
             Salad = salada;
             Soup = sopa;
             Noodles = miojo, macarrão;
@@ -254,20 +254,19 @@ week 8{
             Onion Rings = anéis de cebola;
             Roasted potato = batata assada;
             Roasted bife = carne assada;
-        }
-        Verbs{
+        
+        Verbs
             Bake = assar;
             Boil = ferver;
             Cook = cozinhar;
             Fry = fritar;
             Taste = provar;
-        }
-        Flavors = sabores{
+        
+        Flavors = sabores
             Sweet = doce;
             Salt = salgado;
             Bitter = amargo;
             Souer = azedo;   
-        }
     }
-}
+}                
 ------------------------------------------------------------------------
