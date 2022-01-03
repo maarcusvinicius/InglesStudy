@@ -270,3 +270,56 @@ week 8{
     }
 }                
 ------------------------------------------------------------------------
+week 9 {
+    day 1{
+        Regular verbs: Add ED in the end;
+        The question of Y-She playerd and He studied;
+        
+        DID, DIDN'T:
+            terminar com vogal: ED;
+            terminar com consoante: IED;
+
+        Translation:
+            1 Ele era legal quando ele era criança.
+            2 Ela era bonita? Ela era legal? Ela era rica?
+            3 Nós estávamos viajando ontem.
+            4 Eu não estava bem ontem.
+            5 Sally e Janet não estavam trabalhando ontem.
+
+
+        Respost:
+            1 He was cool when he was a kid.
+            2 Was she beautiful? Was she cool? Was she rich?
+            3 We were travelling yesterday.
+            4 I was not well yesterday.
+            5 Sally and Janet were not working yesterday.
+
+        Places do nada{
+            airport = aeroporto;
+            bakery = padaria;
+            bank = banco;
+            bar = bar;
+            bookstore = livraria;
+            bus station = rodoviaria;
+            butcher = açougueiro;
+            café = cafeteria;
+            church = igreja;
+            gallery = galeria de artes;
+            court = tribunal
+            departament store = loja de conveniencia;
+            cinema / movies = cinema;
+            service station = posto de gasolina;
+            gym = academia;
+            hairdresser's = cabeleleiro;
+            greengrocer's = loja de domesticos;
+            jail / prison = cadeia;
+            Library = biblioteca;
+            mall = shopping;
+            parking lot = estacionamento; 
+            pharmacy / drugstose = farmácia;
+            police station = delegacia;
+            post office = correio;
+            pub = bar(britanico)
+        }
+    }
+}
