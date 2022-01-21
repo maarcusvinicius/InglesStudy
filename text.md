@@ -396,3 +396,29 @@ week 9 {
     }
 }
 ------------------------------------------------------------------------
+week 11 {
+    day 3 {
+        Comparatives and Superlatives:
+        Comparatives{
+            Short words plus ER - Warmer, colder, cooler, sadder, nicer;
+
+            Long words - more and then word - more intelligent, more boring;
+        }
+        Superlatives{
+            Short words plus EST - She is the smallest, he is the saddest, we are the coolest
+
+            Long words - the most and the word - SHe is the most interesting person;
+        }
+        Exceptions{
+            Comparatives:
+                Good-better;
+                Bad-Worse;
+                Far-Father,further;
+
+            Superlatives:
+                Good- the best;
+                Bad- The worst;
+                Far- The farthest
+        }
+    }
+}
