@@ -422,3 +422,14 @@ week 11 {
         }
     }
 }
+------------------------------------------------------------------------
+week 12 {
+    day 3{
+        The Weather Vocabulary{
+            Seasons:
+            Summer- sunny, hot, warm;
+            Spring- cool, windy, pleasant, Fall(Autumn), cloudy, cold;
+            Winter- Freezing;
+        }
+    }
+}
