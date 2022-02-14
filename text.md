@@ -433,3 +433,24 @@ week 12 {
         }
     }
 }
+------------------------------------------------------------------------
+week 14{
+    day 1{
+        Modal Verbs{
+            Can Vs May:
+                Can I help you?
+                May I helpo you?
+
+                I can play the violin
+                I may play the violin
+
+            May Vs Might:
+                Today may rain
+                Today might rain
+
+            Can: habilidade e permissões;
+            May: permissões e possibilidade com mais chances de acontecer;
+            Might: possibilidades com menor chance de acontecer;
+        }
+    }
+}
