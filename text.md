@@ -397,6 +397,20 @@ week 9 {
 }
 ------------------------------------------------------------------------
 week 11 {
+    day 1 {
+        Future{
+            Will (Para futuro incerto) {
+                - Rick will work job next week;
+                - Rick won't work job next week;
+                - Will Rick work job next week?;
+            }
+            Be going to (Para futuro planejado) {
+                - She is going to go the doctor;
+                - She not going to go the doctor;
+                - Is she going to the doctor?;
+            }
+        }
+    }
     day 3 {
         Comparatives and Superlatives:
         Comparatives{
