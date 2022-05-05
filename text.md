@@ -897,6 +897,11 @@ week 11 {
 ------------------------------------------------------------------------
 week 12 {
     day 3{
+        Translation{
+            pleny: bastante;
+            amuse: divertir;
+            deserves: divertir;
+        }
         The Weather Vocabulary{
             Seasons:
             Summer- sunny, hot, warm;
@@ -926,4 +931,3 @@ week 14{
         }
     }
 }
->>>>>>> 0e0eb463f8841575411d6848c94b9b4a99e7d538
