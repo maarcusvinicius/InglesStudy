@@ -928,6 +928,12 @@ week 14{
             Can: habilidade e permissões;
             May: permissões e possibilidade com mais chances de acontecer;
             Might: possibilidades com menor chance de acontecer;
+
+            Could:
+                Tip: poderia, podia, pudesse;
+
+            Should: 
+                (variações de "dever" expressando a ideia de conselhos e dicas);
         }
     }
 }
