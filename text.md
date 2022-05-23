@@ -937,3 +937,16 @@ week 14{
         }
     }
 }
+------------------------------------------------------------------------
+week 15 {
+    day 1{
+        Thinck: grossa;
+        Boring: chata;
+        Brought: trazer;
+        Meaning: significado;
+        Above: sobre;
+        Near: perto;
+        Guilty: sentido de culpado;
+        Role: papel de função;
+    }
+}
