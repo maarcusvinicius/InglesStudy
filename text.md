@@ -950,3 +950,17 @@ week 15 {
         Role: papel de função;
     }
 }
+------------------------------------------------------------------------
+week 16 {
+    day 1{
+        - vacuum tubes: "tubos de vaco"
+        - memomy device: "aparelhos de memoria"
+        - automatic: "automatico"
+        - solve: "solucionar"
+        - linear equations: "equações lineares"
+        - programmable: "programavel"
+        - switches and plugs: "interrupitor"
+        - able: "ser capás"
+        - large class: "ampla classe"
+    }
+}
