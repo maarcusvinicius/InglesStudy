@@ -963,4 +963,12 @@ week 16 {
         - able: "ser capás"
         - large class: "ampla classe"
     }
+    day 2 {
+        - transistor: "transistor"
+        - instead: "ao invés de"
+        - inexpensive: (nao era caro)
+        - requirements: "requisitos"
+        - fixed-word-length: (tamanhos fixos)
+        - variable-word-length: (tamanhos variados)
+    }
 }
