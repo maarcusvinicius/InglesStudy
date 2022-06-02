@@ -971,4 +971,16 @@ week 16 {
         - fixed-word-length: (tamanhos fixos)
         - variable-word-length: (tamanhos variados)
     }
+    day 3 {
+        - integrated circuit: "placas"
+        - mass increase: "crescimento em massa"
+        - central process: "processador central"
+        - data bit: "bit de dados"
+        - parity bit: "bit de paridade"
+        - stored: "armazenados"
+        - cathode-ray: "raio catodigo (de electrons)"
+        - widely: "amplamente"
+        - spark: "fagulha"
+        - hobbyist: (hobbystas)
+    }
 }
