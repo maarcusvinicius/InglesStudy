@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-week 2{
+## week 2{
     day 1{
         Numbers{
             1-   one
@@ -45,7 +44,7 @@ week 2{
             10th- Tenth
         }
     day 2{
-        Months{
+        Months
             January
             February
             March
@@ -58,8 +57,8 @@ week 2{
             October
             November
             December
-        }
-        Days{   
+        
+        Days   
             Monday    (segunda-feira)
             Tuesday   (terça-feira)
             Wednesday (quarta-feira)
@@ -71,7 +70,7 @@ week 2{
     }
 }
 ------------------------------------------------------------------------
-week 3{
+## week 3{
     day 1{
 
         usually = frequencia alta
@@ -83,9 +82,7 @@ week 3{
         seem = (sugestao)
         side = lado
         boring = chata
-    }
-}    
-------------------------------------------------------------------------
+    }    
     day 2{
 
         1- That blouse is not my, that blouse is hers;
@@ -122,7 +119,7 @@ week 3{
     }
 }
 ------------------------------------------------------------------------
-week 4{
+## week 4{
     day 2{
 
         in / on / at{
@@ -163,7 +160,7 @@ week 4{
     }
 }
 ------------------------------------------------------------------------
-week 5{
+## week 5{
     day 2{
         chubby = gordinha(gíria)=fat;
         aunts = tias;
@@ -219,7 +216,7 @@ week 5{
     }
 }
 ------------------------------------------------------------------------
-week 7{
+## week 7{
     day 4{
 
         1- They don't want to listen that singer's music;
@@ -235,7 +232,7 @@ week 7{
     }
 }
 ------------------------------------------------------------------------
-week 8{
+## week 8{
     day 2{
         BREAKFAST
             Bread = pão;
@@ -343,7 +340,7 @@ week 8{
     }
 }                
 ------------------------------------------------------------------------
-week 9 {
+## week 9 {
     day 1{
         Regular verbs: Add ED in the end;
         The question of Y-She playerd and He studied;
@@ -397,7 +394,7 @@ week 9 {
     }
 }
 ------------------------------------------------------------------------
-week 11 {
+## week 10 {
     day 1 {
         Future{
             Will (Para futuro incerto) {
@@ -438,20 +435,17 @@ week 11 {
     }
 }
 ------------------------------------------------------------------------
-week 12 {
+## week 11 {
     day 3{
-        The Weather Vocabulary{
+        The Weather Vocabulary
             Seasons:
             Summer- sunny, hot, warm;
             Spring- cool, windy, pleasant, Fall(Autumn), cloudy, cold;
             Winter- Freezing;
-        }
+        
     }
-}
-------------------------------------------------------------------------
-week 14{
     day 1{
-        Modal Verbs{
+        Modal Verbs
             Can Vs May:
                 Can I help you?
                 May I helpo you?
@@ -466,11 +460,11 @@ week 14{
             Can: habilidade e permissões;
             May: permissões e possibilidade com mais chances de acontecer;
             Might: possibilidades com menor chance de acontecer;
-        }
+        
     }
 }
-=======
-week 2{
+
+## week 12{
     day 1{
         Numbers{
             1-   one
@@ -542,7 +536,7 @@ week 2{
     }
 }
 ------------------------------------------------------------------------
-week 3{
+## week 13{
     day 1{
 
         usually = frequencia alta
@@ -554,9 +548,7 @@ week 3{
         seem = (sugestao)
         side = lado
         boring = chata
-    }
-}    
-------------------------------------------------------------------------
+    }    
     day 2{
 
         1- That blouse is not my, that blouse is hers;
@@ -593,7 +585,7 @@ week 3{
     }
 }
 ------------------------------------------------------------------------
-week 4{
+## week 14{
     day 2{
 
         in / on / at{
@@ -634,7 +626,7 @@ week 4{
     }
 }
 ------------------------------------------------------------------------
-week 5{
+## week 15{
     day 2{
         chubby = gordinha(gíria)=fat;
         aunts = tias;
@@ -690,7 +682,7 @@ week 5{
     }
 }
 ------------------------------------------------------------------------
-week 7{
+## week 6{
     day 4{
 
         1- They don't want to listen that singer's music;
@@ -706,7 +698,7 @@ week 7{
     }
 }
 ------------------------------------------------------------------------
-week 8{
+## week 8{
     day 2{
         BREAKFAST
             Bread = pão;
@@ -814,7 +806,7 @@ week 8{
     }
 }                
 ------------------------------------------------------------------------
-week 9 {
+## week 9 {
     day 1{
         Regular verbs: Add ED in the end;
         The question of Y-She playerd and He studied;
@@ -868,7 +860,7 @@ week 9 {
     }
 }
 ------------------------------------------------------------------------
-week 11 {
+## week 11 {
     day 3 {
         Comparatives and Superlatives:
         Comparatives{
@@ -895,7 +887,7 @@ week 11 {
     }
 }
 ------------------------------------------------------------------------
-week 12 {
+## week 12 {
     day 3{
         Translation{
             pleny: bastante;
@@ -911,7 +903,7 @@ week 12 {
     }
 }
 ------------------------------------------------------------------------
-week 14{
+## week 14{
     day 1{
         Modal Verbs{
             Can Vs May:
@@ -938,7 +930,7 @@ week 14{
     }
 }
 ------------------------------------------------------------------------
-week 15 {
+## week 15 {
     day 1{
         Thinck: grossa;
         Boring: chata;
@@ -951,7 +943,7 @@ week 15 {
     }
 }
 ------------------------------------------------------------------------
-week 16 {
+## week 16 {
     day 1{
         - vacuum tubes: "tubos de vaco"
         - memomy device: "aparelhos de memoria"
@@ -982,5 +974,15 @@ week 16 {
         - widely: "amplamente"
         - spark: "fagulha"
         - hobbyist: (hobbystas)
+    }
+}
+------------------------------------------------------------------------
+## week 17 {
+    day 1 {
+        - more powerful: "mais poder"
+        - as a result: "resultador"
+        - first launch: "primeiro lançamento"
+        - aimed: "objetivo"
+        - rather than: "ao invés de"
     }
 }
