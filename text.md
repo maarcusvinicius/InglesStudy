@@ -986,4 +986,17 @@ week 2{
         - aimed: "objetivo"
         - rather than: "ao invés de"
     }
+    day 2{
+        - lead: "lider"
+        - refute: "refutar"
+        - exploits: "explorar"
+        - wallet: "carteira"
+        - moistened: "umidecia"
+        - worldwide: "ao redor do mundo"
+        - glass: "vidro"
+        - screw: "parafuso"
+        - cemented: "acimentar"
+        - go-to brand: "marca de referencia"
+        - approach: "abordagem"
+    }
 }
