@@ -986,7 +986,7 @@ week 2{
         - aimed: "objetivo"
         - rather than: "ao invés de"
     }
-    day 2{
+    day 2 {
         - lead: "lider"
         - refute: "refutar"
         - exploits: "explorar"
@@ -999,4 +999,18 @@ week 2{
         - go-to brand: "marca de referencia"
         - approach: "abordagem"
     }
+}
+## week 18 {
+    day 1 {
+        - compilers: ""
+        - instructions: ""
+        - occasionally: ""
+        - firmware: ""
+        - native-code compilers: ""
+    }
+}
+
+
+## Frases dia a dia {
+        
 }
