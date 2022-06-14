@@ -1002,15 +1002,23 @@ week 2{
 }
 ## week 18 {
     day 1 {
-        - compilers: ""
-        - instructions: ""
-        - occasionally: ""
-        - firmware: ""
-        - native-code compilers: ""
+        - compilers: "compiladores"
+        - instructions: "instruções"
+        - occasionally: "ocasionalmente"
+        - native-code compilers: "compiladores de código nativo"
+    }
+    day 2 {
+        - mnemonic: "mnemônica"
+        - due to: "devido a"
+        - such as: "tal como"
+        - prone: "propenso"
+        - vast majority: "grande maioria"
+        - layer: "camada"
     }
 }
 
 
 ## Frases dia a dia {
-        
+    Tem um cara a direita: "There's a guy on the right";
+    To entrando: "I'm coming in";
 }
