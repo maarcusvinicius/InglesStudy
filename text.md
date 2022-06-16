@@ -1019,6 +1019,8 @@ week 2{
 
 
 ## Frases dia a dia {
-    Tem um cara a direita: "There's a guy on the right";
-    To entrando: "I'm coming in";
+    There's a guy on the right: "Tem um cara a direita";
+    I'm coming in: "To entrando";
+    What time are you going in?: "Que horas tu vai entrar";
+    What it means: "O que significa";
 }
