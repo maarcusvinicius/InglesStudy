@@ -1016,6 +1016,11 @@ week 2{
         - layer: "camada"
     }
 }
+## week 19 {
+    day 1 {
+        
+    }
+}
 
 
 ## Frases dia a dia {
@@ -1023,4 +1028,7 @@ week 2{
     I'm coming in: "To entrando";
     What time are you going in?: "Que horas tu vai entrar";
     What it means: "O que significa";
+    What do you do for a living: ""Oque você faz da vida;
+    He is silly: "Ele é bobo";
+    He is annoying: "Ele é chato";
 }
