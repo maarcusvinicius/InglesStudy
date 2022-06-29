@@ -1018,7 +1018,30 @@ week 2{
 }
 ## week 19 {
     day 1 {
-
+        3rd Generation of Programming Languages
+        - Fortran 1957
+        - Cobol 1958
+        - Basic 1964
+        - C 1969
+        - Pascal 1970
+        - C++ 1983
+        - Python 1991
+        - Java 1995
+        - JavaScript 1995
+        - C# 2000
+    }
+    C++ {
+        Was originally designed as an optimization of C programming
+        language.
+        Mordern versions of language are object-oriented, generic and,
+        in addition, it facilitates low-level memory manipulation.
+        - medium read
+    }
+    Python {
+        Is dynamically typed, garbage-collected and it supports
+        multiple programming paradigms, object-oriented and functional
+        programming.
+        - easy read
     }
 }
 
