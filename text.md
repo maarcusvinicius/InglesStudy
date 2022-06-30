@@ -1043,6 +1043,20 @@ week 2{
         programming.
         - easy read
     }
+    Java {
+        It is general-purpose programming language intended to let
+        application developers write onde, run anywhere (WORA), meaning
+        that compield Java code run on all platforms that support Java
+        without the need for recompilation.
+        - object-oriented
+    }
+    JavaScript {
+        Alongside HTML and CSS, JavaScript is one of the core
+        technologies of the World Wide Web. JavaScript enables
+        interactive web pages and is an essential part of web
+        applications.
+        - higth read
+    }
 }
 
 
