@@ -1061,7 +1061,13 @@ week 2{
     }
 }
 ## week 20 {
-
+    day 1 {
+        4th Generation of Programming {
+            4GL it can be typified by operation more with large
+            collections of information at once rather than focusing on
+            just bits and bytes;
+        }
+    }
 }
 
 ## Frases dia a dia {
