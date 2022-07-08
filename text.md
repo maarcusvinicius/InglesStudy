@@ -1068,6 +1068,9 @@ week 2{
             just bits and bytes;
         }
     }
+    Low Code Environments {
+        In the twenty-first century, 4GL systems have emerged as "low code" environments or plataforms for the problem of rapid application development in short periods of time;
+    }
 }
 
 ## Frases dia a dia {
