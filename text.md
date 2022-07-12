@@ -1069,7 +1069,16 @@
         }
     }
     Low Code Environments {
-        In the twenty-first century, 4GL systems have emerged as "low code" environments or plataforms for the problem of rapid application development in short periods of time;
+        In the twenty-first century, 4GL systems have emerged as "low
+        code" environments or plataforms for the problem of rapid
+        application development in short periods of time;
+    }
+    Libraries {
+        Some advanced 3GLs like Python, Ruby, and Perl combine some 4GL
+        abilities within a general-purpose 3GL environment, and
+        libraries with 4GL-like features have been developed as add-ons
+        for most popular 3GLs, producing languages that are a mix of
+        3GL and 4GL, blurring the distinction;
     }
 }
 
