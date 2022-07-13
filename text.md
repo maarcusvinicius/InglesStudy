@@ -1082,6 +1082,7 @@
     }
 }
 
+
 ## Frases dia a dia {
     There's a guy on the right: "Tem um cara a direita";
     I'm coming in: "To entrando";
