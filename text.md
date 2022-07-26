@@ -1080,6 +1080,14 @@
         for most popular 3GLs, producing languages that are a mix of
         3GL and 4GL, blurring the distinction;
     }
+    day 4 {
+        5th Generation of Programming {
+            Are designed to make the computer solve a given problem
+            without the programmer, worrying about how to implement a
+            routine or algorithm to solve them;
+            Ex: Python, Lisp, OPS5, between others;
+        }
+    }
 }
 
 ## Frases dia a dia {
