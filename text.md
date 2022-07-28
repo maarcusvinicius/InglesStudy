@@ -1088,6 +1088,9 @@
             Ex: Python, Lisp, OPS5, between others;
         }
     }
+    Misconception{
+        Because the hype of the 1980s faded away and the projects were eventually all dropped, 5GL awareness has also dropped.
+    }
 }
 
 
