@@ -1092,6 +1092,20 @@
         Because the hype of the 1980s faded away and the projects were eventually all dropped, 5GL awareness has also dropped.
     }
 }
+------------------------------------------------------------------------
+## week 21 {
+    Maths {
+        Natural: 1,2,3,4...
+
+        Whole: 0,1,2,3,4... (Natural + 0)
+
+        Integers: -3,-2,-1,0,1,2,3...
+
+        Rational: 1/2,7/2,-4/3...
+
+        Real: 0.5,2.35,PI...
+    }
+}
 
 
 ## Frases dia a dia {
