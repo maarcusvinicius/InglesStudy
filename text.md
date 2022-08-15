@@ -1116,6 +1116,9 @@
             Boolean: 1 or 0 / True or False
         }
     }
+    Types of Numbers {
+        Exercise
+    }
 }
 
 
