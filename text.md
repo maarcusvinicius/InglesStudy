@@ -1119,6 +1119,24 @@
     Types of Numbers {
         Exercise
     }
+    Basic Operator {
+        Addition {    
+            1 +(plus) 1 = 2(the sum)
+            1 plus 1 equals 2
+        }
+        Subtraction {
+            5 -(minus) 3 = 2(the difference)
+            5 minus 3 equals 2 
+        }
+        Multiplication {
+            2 x(times) 2 = 4(the product)
+            2 times 2 equals 4
+        }
+        Division {
+            9 %(divided) 3 = 3(the quotient)
+            9 divided 3 equals 3 
+        }
+    }
 }
 
 
