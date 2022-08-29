@@ -1138,6 +1138,24 @@
         }
     }
 }
+------------------------------------------------------------------------
+## week 22 {
+    day 1 {
+        Fractions {
+            Parts of the frations:
+
+            3/4 => 3: Numerator(cardinal), 4:Denominator(ordinal)
+
+            How to read it:
+            
+            1/3: One third
+            2/3: Two thirds
+            5/12: Five twelfths
+
+            1/2: One half(*meio)
+        }
+    }
+} 
 
 
 ## Frases dia a dia {
