@@ -1155,6 +1155,26 @@
             1/2: One half(*meio)
         }
     }
+    day 2 {
+        Exponents {
+            x² => x: base, ²: power
+
+            x² => x (squared)
+            x³ => x (cubed)
+            x£ => x to the £th power
+                 2³ to the 3th power 
+
+        ex:
+        2² => two to the second power
+
+        5³ => five to the third power
+        }
+        Roots {
+            ²Vx => the squared root of x
+
+            4Vx => the fourth root of x
+        }
+    }
 } 
 
 
