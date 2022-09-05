@@ -1176,6 +1176,26 @@
         }
     }
 } 
+------------------------------------------------------------------------
+## week 23 {
+    day 1 {
+        Important Terms {
+            Average (*media aritimedica)
+
+            Median: 1 3 7 [11] 17 21 30
+
+            y > x : larger than, greater than or more than
+
+            y < x : smaller than or less than
+
+            != : different
+
+            >= : greater or equal
+
+            <= : smaller or equal
+        }
+    }
+}
 
 
 ## Frases dia a dia {
