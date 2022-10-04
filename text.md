@@ -1196,6 +1196,42 @@
         }
     }
 }
+------------------------------------------------------------------------
+## week 24 {
+    day 1 {
+        Monitor 21 (inches)polegadas
+
+        Keyboard {
+            Qwerty
+            Keys
+            Chiclet
+            Mechanical
+            Number pad
+            Touch bar
+        }
+
+        Mouse {
+            Right click,
+            Left click,
+            Scroll,
+            Hover,
+            Hold
+        }
+
+        Router(Roteador)
+
+        Speaker(Caixa de som)
+
+        Printer(Impressora)
+
+        Scanner(Copiadora)
+
+        Eternal Disk(HD Externo)
+
+        Flash Drive(PenDrive, Thumbdrive)
+    }
+}
+
 
 
 ## Frases dia a dia {
