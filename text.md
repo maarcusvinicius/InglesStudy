@@ -1231,7 +1231,14 @@
         Flash Drive(PenDrive, Thumbdrive)
     }
 }
+------------------------------------------------------------------------
+## week 25 {
+    day 1 {
+        Motherboard (placa mãe)
 
+        Central Processing Unit(CPU)
+    }
+}
 
 
 ## Frases dia a dia {
