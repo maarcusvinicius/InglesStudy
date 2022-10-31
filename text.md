@@ -1236,7 +1236,9 @@
     day 1 {
         Motherboard (placa mãe)
 
-        Central Processing Unit(CPU)
+        Central Processing Unit (CPU)
+
+        RAM ()
     }
 }
 
