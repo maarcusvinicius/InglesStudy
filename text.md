@@ -1234,11 +1234,13 @@
 ------------------------------------------------------------------------
 ## week 25 {
     day 1 {
-        Motherboard (placa mãe)
+        Motherboard (Placa mãe)
 
         Central Processing Unit (CPU)
 
-        RAM ()
+        Hard Drive (HD)
+
+        Random-access Memory (RAM)
     }
 }
 
