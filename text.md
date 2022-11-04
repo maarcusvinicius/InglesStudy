@@ -1233,15 +1233,16 @@
 }
 ------------------------------------------------------------------------
 ## week 25 {
-    day 1 {
-        Motherboard (Placa mãe)
+    Motherboard (Placa mãe)
 
-        Central Processing Unit (CPU)
+    Central Processing Unit (CPU)
 
-        Hard Drive (HD)
+    Hard Drive (HD)
 
-        Random-access Memory (RAM)
-    }
+    Random-access Memory (RAM)
+
+    Graphics Card (Placa de vídeo)
+
 }
 
 
