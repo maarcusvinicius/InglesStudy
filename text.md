@@ -1243,6 +1243,9 @@
 
     Graphics Card (Placa de vídeo)
 
+    Power Supply (Fonte de energia)
+
+    Case (A caixa)
 }
 
 
@@ -1251,7 +1254,7 @@
     I'm coming in: "To entrando";
     What time are you going in?: "Que horas tu vai entrar";
     What it means: "O que significa";
-    What do you do for a living: ""Oque você faz da vida;
+    What do you do for a living: "Oque você faz da vida";
     He is silly: "Ele é bobo";
     He is annoying: "Ele é chato";
 }
