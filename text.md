@@ -1246,6 +1246,26 @@
     Power Supply (Fonte de energia)
 
     Case (A caixa)
+
+    day Keyboard {
+
+        \ Backslash             ] Closed bracket            @ At                . Dot           | Vertical bar (pipe)
+
+        / Forward slash         [ ] Brackets                # Hash              , Comma
+
+        % Percent               { Open Curly Bracket        ! Bang              : Color
+
+        & And                   } Closed Curly Bracket      ? Question marks    ; Semicolon
+
+        ( Open paranthesis      { } Curly Bracket           = Equal             > Greater than
+    
+        ) Closed paranthesis    + Plus                      * Star              < Less than
+
+        ( ) Paranthesis         - Hyphen                    ^ Caret             " Quote (double quote)
+
+        [ Open brack            _ Underscore                $ Dollar            ' Single quote
+
+    }
 }
 
 
