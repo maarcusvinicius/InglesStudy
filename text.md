@@ -1267,6 +1267,29 @@
 
     }
 }
+------------------------------------------------------------------------
+## week 26 {
+    day 1 {
+        Controls:                       Sync:
+            Brightness                      Mobile
+            Volume                          Server
+        
+        Devices and connections:        Cursor and sreen:
+            Jack                            POP-UP
+            USB                             R-Options
+            HDMI                            L-Command
+            Ethernet                        Double-click
+            Wire                            Click + drag
+            Cable                           Drag + drop
+            Wireless                        Highlight
+            Wi-fi
+
+        Commands:
+            Sleep
+            Restart
+            Shut Down
+    }
+}
 
 
 ## Frases dia a dia {
