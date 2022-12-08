@@ -1290,6 +1290,18 @@
             Shut Down
     }
 }
+------------------------------------------------------------------------
+## week 27 {
+    day 1 {
+        HTML tags:
+            <body>
+            <head>
+            <p>
+            <h1>
+
+        Create the structure of the site 
+    }
+}
 
 
 ## Frases dia a dia {
