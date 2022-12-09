@@ -1301,6 +1301,16 @@
 
         Create the structure of the site 
     }
+    day 2 {
+        Css tags:
+            font-family
+            font-size
+            color
+            text-align
+
+        Selector points to the HTML element to style
+        Each declaration includes a CSS property name and a value, separated by a colon
+    }
 }
 
 
