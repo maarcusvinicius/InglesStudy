@@ -1311,6 +1311,17 @@
         Selector points to the HTML element to style
         Each declaration includes a CSS property name and a value, separated by a colon
     }
+    day 3 {
+        JarvaScript tags:
+            var
+            let
+            conts
+            functions()
+
+        is the Programming language for the web
+        can update and change both HTML and CSS
+        can calculate, manipulate and validade data
+    }
 }
 
 
