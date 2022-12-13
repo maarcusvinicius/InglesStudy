@@ -1323,6 +1323,17 @@
         can calculate, manipulate and validade data
     }
 }
+------------------------------------------------------------------------
+## week 28 {
+    day 1 {
+        Data base
+            Is where all the information you dont´t want to let open
+            to everyone access is stored.
+
+            Ex: Payments data, passwords and etc
+    }
+}
+
 
 
 ## Frases dia a dia {
