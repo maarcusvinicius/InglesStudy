@@ -1332,6 +1332,18 @@
 
             Ex: Payments data, passwords and etc
     }
+    day 2 {
+        URLs 
+            https://www.youtube.com/results?search_query=value
+
+            https: Protocol
+            www: World Wide Web
+            youtube: Domain Name
+            .com: Top-level domain
+
+            /results: Path
+            ?search_query=value: Query string
+    }
 }
 
 
