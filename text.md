@@ -1344,6 +1344,21 @@
             /results: Path
             ?search_query=value: Query string
     }
+    day 3 {
+        REST (REpresentational State Transfer)
+
+        HTTP verb
+            GET POST PUT DELETE
+
+        A REST request consists of:
+            * An HTTP verb, which defines what kind of operation to perform
+
+            * A header, which allows the client to pass along information about the request
+
+            * A path to a resource (url)
+
+            * An optional message body containing data
+    }
 }
 
 
