@@ -1360,7 +1360,17 @@
             * An optional message body containing data
     }
 }
+------------------------------------------------------------------------
+## week 29 {
+    day 1 {
+        programming use 4 basic concepts
 
+            1) Line by line execution
+            2) Conditionals
+            3) Loops
+            4) Function
+    }
+}
 
 
 ## Frases dia a dia {
