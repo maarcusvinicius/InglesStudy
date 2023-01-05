@@ -1370,6 +1370,38 @@
             3) Loops
             4) Function
     }
+    day 2 {
+        Important Words
+
+            variable    
+            
+            operand and operator
+
+            statement
+
+            switch      case    break
+
+            if          else if     else
+
+            array       constant    stack   queue
+
+            while       do... while
+            
+            for     forEach
+
+        Layout (CSS)
+
+        Position Property    
+            static      relative    fixed   absolute    sticky
+        
+        Position
+            top left                top right
+                        centered
+            bottom left             bottom right   
+            
+
+            layout      icon    dropdown    checkbox    slider
+    }   
 }
 
 
