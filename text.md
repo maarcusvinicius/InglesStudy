@@ -1403,6 +1403,23 @@
             layout      icon    dropdown    checkbox    slider
     }   
 }
+------------------------------------------------------------------------
+## week 30 {
+    day 1 {
+        I.T. Jobs
+
+            Role level 1    Intern  Administrator
+            Role level 2    Junior  Enginer
+            Role level 3    Senior  Architect
+
+            Cloud Architect
+            Cloud Consultant
+            Cloud Developer
+            Cloud Software and Network Engineer
+            Cloud System Administrator
+            Cloud System Engineer
+    }
+}
 
 
 ## Frases dia a dia {
