@@ -1418,6 +1418,16 @@
             Cloud Software and Network Engineer
             Cloud System Administrator
             Cloud System Engineer
+
+            Network Architect
+            System Analyst
+            System Manager
+            IT Analyst
+            IT Coordinator
+            Network Administrator
+            Network Architect
+            Network and Computer Systems Administrator
+            Telecommunications Specialist
     }
 }
 
